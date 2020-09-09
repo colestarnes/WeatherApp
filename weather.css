@@ -1,0 +1,44 @@
+.navbar-brand {
+text-align: center;
+} 
+.cityBtn {
+    height: 40px; 
+    white-space: normal; 
+    margin-bottom: 20px; 
+    font-size: small; 
+    float: left; 
+} 
+.results{
+   background: rgb(196, 196, 196);
+
+  height: 257px; 
+  width: auto;
+} 
+
+.searchForCities {
+    float: left;
+} 
+ 
+.resultRow {
+    background: rgb(244, 244, 244);
+} 
+
+.fiveDay {
+    height: 210px;  
+    overflow: hidden;  
+    margin-top: 20px; 
+    background: rgb(244, 244, 244); 
+    margin: 20px auto; 
+}
+.blue {
+    background: blue;
+} 
+ 
+.fiveDay ul{
+    padding: 0px; 
+    margin: 0px;
+} 
+
+#searchBtn {
+cursor: pointer;
+}
