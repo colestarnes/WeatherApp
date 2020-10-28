@@ -1,6 +1,7 @@
 let cities = [];
 
 //clicking search
+
 $("#searchBtn").on("click", function () {
 
     //creating button 
@@ -170,12 +171,7 @@ function otherAPI() {
             month + 1;
             day - 29;
         }
-
-        // let locationIcon = document.querySelector('.weather-icon'); 
-
-        // const {icon} = data.weather[0]; 
-
-        // locationIcon.innerHTML = <img src="icons/${`icons`}.png"></img>
     })
 
 }
+ 
